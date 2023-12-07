@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .body1{
-    background-image: Url(home-bg.png);
+    background-image: Url(/home-bg.png);
 }
 .nav{
     margin-left: 400px;
@@ -99,7 +99,7 @@ h1{
     color: white;
 }
 .search-body{
-    background-image: url(/Love-for-Food/search.png);
+    background-image: url(search.png);
     font-family: Arial, sans-serif;
     background-repeat: no-repeat;
     background-size: 100%;
