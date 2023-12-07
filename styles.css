@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .body1{
-    background-image: Url("home-bg.png");
+    background-image: url("home-bg.png");
 }
 .nav{
     margin-left: 400px;
