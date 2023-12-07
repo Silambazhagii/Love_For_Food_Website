@@ -202,7 +202,7 @@ border: 1px solid white;
 background-color: #4A4A4A;
 }
 .aboutMe{
-    background-image: url('Me.png');
+    background-image: url("Me.png");
 }
 .rtarrow{
     cursor: pointer;
