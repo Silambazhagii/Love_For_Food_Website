@@ -99,7 +99,7 @@ h1{
     color: white;
 }
 .search-body{
-    background-image: url(search.png);
+    background-image: url("search.png");
     font-family: Arial, sans-serif;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -202,7 +202,7 @@ border: 1px solid white;
 background-color: #4A4A4A;
 }
 .aboutMe{
-    background-image: url(/Love-for-Food/About\ Me.png);
+    background-image: url('Me.png');
 }
 .rtarrow{
     cursor: pointer;
@@ -224,7 +224,7 @@ background-color: #4A4A4A;
     display: flex;
     align-items: center;
     text-align: center;
-    background-image: url(Random\ choice.png);
+    background-image: url('Random\ choice.png');
 }
 .item-name{
     /* font-family: Arial, sans-serif; */
