@@ -276,7 +276,7 @@ background-color: #4A4A4A;
 .menu-body{
     background-repeat: no-repeat;
     overflow-y: scroll;
-    background-image:url(/Love-for-Food/Menu.png) ;
+    background-image:url("Menu.png") ;
     background-size: cover;
 }
 .main {
